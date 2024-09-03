@@ -121,7 +121,7 @@
     justify-content: center;
 }
 .nav-flag {
-    background-image: url('images/us_flag.jpg');
+    background-image: url('us_flag.jpg');
     background-size: cover;
     height: 16px;
     width: 25.2px;
@@ -336,7 +336,7 @@ span{
 .logo-panel {
     width: 100px;
     height: 55px; 
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
