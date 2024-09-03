@@ -1,2 +1,3 @@
 # AmazonClone
-simple amazone clone made using html and css
+simple amazon clone made using html and css
+later on i will add js
