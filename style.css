@@ -34,7 +34,7 @@
  .nav-logo  {
     height: 55px;
     width:113px;
-    background-image: url("C:/Users/vs731/OneDrive/Desktop/AmazonClone/images/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 58px;
     width: 114px ;
@@ -121,7 +121,7 @@
     justify-content: center;
 }
 .nav-flag {
-    background-image: url('C:/Users/vs731/OneDrive/Desktop/AmazonClone/images/us_flag.jpg');
+    background-image: url('images/us_flag.jpg');
     background-size: cover;
     height: 16px;
     width: 25.2px;
@@ -205,7 +205,7 @@ span{
 .hero-section{
     height: 300px;
     z-index: 0;
-    background-image:url("C:/Users/vs731/OneDrive/Desktop/AmazonClone/images/hero2.jpg") ;
+    background-image:url("images/hero2.jpg") ;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -336,7 +336,7 @@ span{
 .logo-panel {
     width: 100px;
     height: 55px; 
-    background-image: url("C:/Users/vs731/OneDrive/Desktop/AmazonClone/images/amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
