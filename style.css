@@ -14,9 +14,28 @@
         width: 100%;
     }
 }
+body{
+    overflow-x:hidden;
+}
+@media(max-width: 480px){
+.panel-deals{
+    display:none;   
+}
+.content{
+    width:50%;
+}
+.nav-search input{
+    width:60%;
+}
+.nav-search{
+    width:120px;
+}
+}
 
 *{
     margin: 0;
+    outline:1px solid red;
+    outline-offset:5px;     
     font-family: Arial;
     border:border-box;
     /* background-color: #e2e7e6; */
