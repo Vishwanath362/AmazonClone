@@ -34,7 +34,7 @@
 
 *{
     margin: 0;
-
+    outline: 1px white;
     font-family: Arial;
     border:border-box;
     /* background-color: #e2e7e6; */
